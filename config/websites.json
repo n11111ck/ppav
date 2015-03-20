@@ -1,0 +1,55 @@
+websites = [
+
+  {
+
+    address: 'vit.picturepark.com',
+    timeout: 5,
+    responsiveness: 750,
+    ssl: true
+
+  },
+
+  {
+
+    address: 'vit.picturepark.com',
+    timeout: 5,
+    responsiveness: 750,
+    ssl: false
+
+  },
+
+  {
+
+    address: 'markant.picturepark.com',
+    timeout: 5,
+    responsiveness: 750,
+    ssl: true
+
+  },
+
+  {
+
+    address: 'markant.picturepark.com',
+    timeout: 5,
+    responsiveness: 750,
+    ssl: false
+
+  },
+
+  {
+
+    address: 'vertu.picturepark.com',
+    timeout: 5,
+    responsiveness: 750,
+    ssl: true
+
+  },
+
+  {
+
+    address: 'vertu.picturepark.com',
+    timeout: 5,
+    responsiveness: 750,
+    ssl: false
+
+  },
