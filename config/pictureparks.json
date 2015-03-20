@@ -1,0 +1,28 @@
+{
+  "pictureparks":[
+
+
+      {
+
+      "address": "vit.picturepark.com",
+      "timeout": 5,
+      "responsiveness": 750,
+      "ssl": true,
+      "interval": 15
+
+      },
+
+
+      {
+
+      "address": "vit.picturepark.com",
+      "timeout": 5,
+      "responsiveness": 750,
+      "ssl": false,
+      "interval": 15
+
+      }
+    ]
+
+
+  }
