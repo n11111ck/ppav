@@ -1,5 +1,6 @@
 var Ping = require('./lib/ping'),
-	
+
+
 	websites = [
 
 		{
